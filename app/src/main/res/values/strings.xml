@@ -11,6 +11,25 @@ limitations under the License. -->
 
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Aleks Haecky</string>
+    <string name="name">Ronnie Dipple</string>
     <string name="yellow_star">Yello star</string>
+
+    <string name="bio">Hi, my name is Ronnie.
+        \n\nI love my Wife and Dog
+        \n\nI am from the UK
+        \n\nIf you are ever in trouble remember this quote:
+        \n\nJust remember what ol Jack Burton does when the earth
+        \n\nquakes, and the poison arrows fall from the sky, and the pillars of Heaven
+        \n\nshake. Yeah, Jack Burton just looks that big ol storm right square in the eye
+        \n\nand he says, Give me your best shot, pal. I can take it.
+        \n\nAlso never for get this
+        \n\nWhen some wild-eyed, eight-foot-tall maniac grabs your neck, taps the back of your
+        \n\nfavorite head up against the barroom wall, looks you crooked in the eye, and asks you if you paid your
+        \n\ndues; you just stare that big sucker right back in the eye, and you remember what ol Jack Burton
+        \n\nalways says at a time like that: Have you paid your dues, Jack? Yes sir, the check is in the mail.
+
+
+
+    </string>
+
 </resources>
