@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     // Instance of MyName data class.
-    private val myName: MyName = MyName("Aleks Haecky")
+    private val myName: MyName = MyName("Ronnie Dipple")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
